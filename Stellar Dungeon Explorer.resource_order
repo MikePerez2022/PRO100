@@ -10,6 +10,10 @@
     {"name":"Level","order":2,"path":"folders/Objects/Level.yy",},
     {"name":"Lighting_effects","order":3,"path":"folders/Objects/Lighting_effects.yy",},
     {"name":"Menu","order":4,"path":"folders/Objects/Menu.yy",},
+<<<<<<< Updated upstream
+=======
+    {"name":"GUI","order":6,"path":"folders/Objects/Menu/GUI.yy",},
+>>>>>>> Stashed changes
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Level1","order":1,"path":"folders/Paths/Level1.yy",},
@@ -35,11 +39,26 @@
     {"name":"Visual assets","order":8,"path":"folders/Sprites/Visual assets.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+<<<<<<< Updated upstream
     {"name":"Interactable","order":2,"path":"folders/Objects/Game/Interactable.yy",},
     {"name":"Interactable","order":1,"path":"folders/Sprites/Level/Interactable.yy",},
     {"name":"Players","order":3,"path":"folders/Objects/Game/Players.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_chest_open","order":1,"path":"sprites/spr_chest_open/spr_chest_open.yy",},
+=======
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Obj_Button_Load","order":5,"path":"objects/Obj_Button_Load/Obj_Button_Load.yy",},
+    {"name":"Fnt_HUD","order":1,"path":"fonts/Fnt_HUD/Fnt_HUD.yy",},
+    {"name":"Obj_GUI_Controller","order":1,"path":"objects/Obj_GUI_Controller/Obj_GUI_Controller.yy",},
+    {"name":"Spr_Help","order":2,"path":"sprites/Spr_Help/Spr_Help.yy",},
+    {"name":"Obj_button_Save","order":4,"path":"objects/Obj_button_Save/Obj_button_Save.yy",},
+    {"name":"Test_Menu","order":1,"path":"rooms/Test_Menu/Test_Menu.yy",},
+    {"name":"Spr_Button","order":1,"path":"sprites/Spr_Button/Spr_Button.yy",},
+    {"name":"Obj_Button_Inv","order":7,"path":"objects/Obj_Button_Inv/Obj_Button_Inv.yy",},
+    {"name":"Obj_Button_Start","order":1,"path":"objects/Obj_Button_Start/Obj_Button_Start.yy",},
+    {"name":"Obj_Button_Exit","order":2,"path":"objects/Obj_Button_Exit/Obj_Button_Exit.yy",},
+>>>>>>> Stashed changes
   ],
 }
