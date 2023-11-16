@@ -18,13 +18,12 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Game","folderPath":"folders/Objects/Game.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemies","folderPath":"folders/Objects/Game/Enemies.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Interactable","folderPath":"folders/Objects/Game/Interactable.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Players","folderPath":"folders/Objects/Game/Players.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Level","folderPath":"folders/Objects/Level.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Lighting_effects","folderPath":"folders/Objects/Lighting_effects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Menu","folderPath":"folders/Objects/Menu.yy",},
-<<<<<<< Updated upstream
-=======
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GUI","folderPath":"folders/Objects/Menu/GUI.yy",},
->>>>>>> Stashed changes
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Level1","folderPath":"folders/Paths/Level1.yy",},
@@ -44,21 +43,16 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"HUD","folderPath":"folders/Sprites/HUD.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Items","folderPath":"folders/Sprites/Items.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Level","folderPath":"folders/Sprites/Level.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Interactable","folderPath":"folders/Sprites/Level/Interactable.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Menu","folderPath":"folders/Sprites/Menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Sprites/Player.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tilesets assets","folderPath":"folders/Sprites/Tilesets assets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Visual assets","folderPath":"folders/Sprites/Visual assets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-<<<<<<< Updated upstream
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Interactable","folderPath":"folders/Objects/Game/Interactable.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Interactable","folderPath":"folders/Sprites/Level/Interactable.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Players","folderPath":"folders/Objects/Game/Players.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"MutilatedStumbler.aseprite","CopyToMask":-1,"filePath":"datafiles",},
-=======
->>>>>>> Stashed changes
   ],
   "isEcma": false,
   "LibraryEmitters": [],
@@ -66,14 +60,12 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
-<<<<<<< Updated upstream
     {"id":{"name":"Zombie","path":"objects/Zombie/Zombie.yy",},},
     {"id":{"name":"Chest","path":"objects/Chest/Chest.yy",},},
     {"id":{"name":"spr_chest_open","path":"sprites/spr_chest_open/spr_chest_open.yy",},},
     {"id":{"name":"Hero","path":"objects/Hero/Hero.yy",},},
     {"id":{"name":"spr_chest_closed","path":"sprites/spr_chest_closed/spr_chest_closed.yy",},},
     {"id":{"name":"spr_zombie","path":"sprites/spr_zombie/spr_zombie.yy",},},
-=======
     {"id":{"name":"Obj_Button_Load","path":"objects/Obj_Button_Load/Obj_Button_Load.yy",},},
     {"id":{"name":"Fnt_HUD","path":"fonts/Fnt_HUD/Fnt_HUD.yy",},},
     {"id":{"name":"Obj_Button","path":"objects/Obj_Button/Obj_Button.yy",},},
@@ -88,7 +80,6 @@
     {"id":{"name":"Obj_Button_Inv","path":"objects/Obj_Button_Inv/Obj_Button_Inv.yy",},},
     {"id":{"name":"Obj_Button_Start","path":"objects/Obj_Button_Start/Obj_Button_Start.yy",},},
     {"id":{"name":"Obj_Button_Exit","path":"objects/Obj_Button_Exit/Obj_Button_Exit.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
