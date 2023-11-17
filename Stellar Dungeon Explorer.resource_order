@@ -1,4 +1,8 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Obj_Powerup_Parent","order":2,"path":"objects/Obj_Powerup_Parent/Obj_Powerup_Parent.yy",},
+    {"name":"Spr_Test","order":1,"path":"sprites/Spr_Test/Spr_Test.yy",},
+    {"name":"Obj_Powerup_SB","order":3,"path":"objects/Obj_Powerup_SB/Obj_Powerup_SB.yy",},
+  ],
 }
