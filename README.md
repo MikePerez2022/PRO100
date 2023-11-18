@@ -9,6 +9,7 @@ Try not to destroy or cut out too much on your own because it could hinder anoth
 
 
 To Run:
+
 You will need to have GameMaker Studio 2 downloaded Once you have it open GameMaker
 Using GameMaker open the Setellar Dungeoun Explorer.yyp file using Gamemaker (You can find it using file explorer)
 Then when inside the file click the play button or click F5
