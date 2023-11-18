@@ -1,10 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Chest",
+  "name": "Obj_Powerup_SB",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -12,7 +13,10 @@
     "name": "Interactable",
     "path": "folders/Objects/Game/Interactable.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Obj_Powerup_Parent",
+    "path": "objects/Obj_Powerup_Parent/Obj_Powerup_Parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_chest",
-    "path": "sprites/spr_chest/spr_chest.yy",
+    "name": "Spr_Test",
+    "path": "sprites/Spr_Test/Spr_Test.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,6 +1,31 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-isOpen = false;
+
+if(is_used)
+{
+	is_used = false;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
