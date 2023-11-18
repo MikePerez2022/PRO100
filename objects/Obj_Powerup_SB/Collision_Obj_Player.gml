@@ -3,7 +3,6 @@
 
 
 
-
 if(For_Sale)
 {
 	if(keyboard_check_pressed(ord("E")) && global.Player_Coins >= 20)
@@ -22,6 +21,50 @@ if(!is_used && !For_Sale)
 	show_debug_message(global.Player_Move_Speed);
 	image_index = 1;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
