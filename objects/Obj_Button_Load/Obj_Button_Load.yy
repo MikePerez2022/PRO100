@@ -13,8 +13,8 @@
     "path": "folders/Objects/Menu.yy",
   },
   "parentObjectId": {
-    "name": "Obj_Button",
-    "path": "objects/Obj_Button/Obj_Button.yy",
+    "name": "Obj_save_Load",
+    "path": "objects/Obj_save_Load/Obj_save_Load.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

@@ -1,4 +1,7 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Obj_level_Exit","order":1,"path":"objects/Obj_level_Exit/Obj_level_Exit.yy",},
+    {"name":"Obj_save_Load","order":1,"path":"objects/Obj_save_Load/Obj_save_Load.yy",},
+  ],
 }

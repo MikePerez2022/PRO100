@@ -4,6 +4,7 @@
 instance_deactivate_layer("Instances_Help");
 
 
+full = 0;
 
 
 
