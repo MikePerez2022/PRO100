@@ -1,16 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Chest",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "obj_wall_collision",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Interactable",
-    "path": "folders/Objects/Game/Interactable.yy",
+    "name": "Level",
+    "path": "folders/Objects/Level.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_chest_closed",
-    "path": "sprites/spr_chest_closed/spr_chest_closed.yy",
+    "name": "spr_collision_wall",
+    "path": "sprites/spr_collision_wall/spr_collision_wall.yy",
   },
   "spriteMaskId": null,
   "visible": true,

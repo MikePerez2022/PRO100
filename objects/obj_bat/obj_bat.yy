@@ -1,15 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Zombie",
-  "eventList": [],
+  "name": "obj_bat",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Enemies",
     "path": "folders/Objects/Game/Enemies.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_enemy",
+    "path": "objects/obj_enemy/obj_enemy.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_zombie",
-    "path": "sprites/spr_zombie/spr_zombie.yy",
+    "name": "VampireBat",
+    "path": "sprites/VampireBat/VampireBat.yy",
   },
   "spriteMaskId": null,
   "visible": true,
