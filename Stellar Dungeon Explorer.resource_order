@@ -1,6 +1,5 @@
 {
   "FolderOrderSettings": [
-    {"name":"Enemy Movement","order":1,"path":"folders/Scripts/Enemy Movement.yy",},
     {"name":"Bat","order":3,"path":"folders/Sprites/Enemies/Bat.yy",},
     {"name":"Zombie","order":1,"path":"folders/Sprites/Enemies/Zombie.yy",},
     {"name":"Collision","order":1,"path":"folders/Sprites/Level/Collision.yy",},

@@ -5,7 +5,7 @@ x_dir = -1;
 y_dir = -1;
 x_vel = 0;
 y_vel = 0;
-walk_vel = 0.5;
+//walk_vel = 0.5;
 hit_points = 10;
 is_hoard = false;
 

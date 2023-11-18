@@ -30,7 +30,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Level2","folderPath":"folders/Paths/Level2.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemy Movement","folderPath":"folders/Scripts/Enemy Movement.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequences","folderPath":"folders/Sequences.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
@@ -66,7 +65,6 @@
   },
   "resources": [
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
-    {"id":{"name":"scr_MoveTowardsObject","path":"scripts/scr_MoveTowardsObject/scr_MoveTowardsObject.yy",},},
     {"id":{"name":"Chest","path":"objects/Chest/Chest.yy",},},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},},
     {"id":{"name":"Obj_Powerup_Parent","path":"objects/Obj_Powerup_Parent/Obj_Powerup_Parent.yy",},},
