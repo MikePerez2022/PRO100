@@ -1,18 +1,4 @@
 {
-  "FolderOrderSettings": [
-    {"name":"Bat","order":3,"path":"folders/Sprites/Enemies/Bat.yy",},
-    {"name":"Zombie","order":1,"path":"folders/Sprites/Enemies/Zombie.yy",},
-    {"name":"Collision","order":1,"path":"folders/Sprites/Level/Collision.yy",},
-    {"name":"Test Player","order":1,"path":"folders/Sprites/Player/Test Player.yy",},
-  ],
-  "ResourceOrderSettings": [
-    {"name":"Obj_Powerup_Parent","order":2,"path":"objects/Obj_Powerup_Parent/Obj_Powerup_Parent.yy",},
-    {"name":"Spr_Test","order":1,"path":"sprites/Spr_Test/Spr_Test.yy",},
-    {"name":"Obj_Powerup_SB","order":3,"path":"objects/Obj_Powerup_SB/Obj_Powerup_SB.yy",},
-    {"name":"obj_bat","order":2,"path":"objects/obj_bat/obj_bat.yy",},
-    {"name":"spr_zombie_death","order":1,"path":"sprites/spr_zombie_death/spr_zombie_death.yy",},
-    {"name":"Object_Test","order":1,"path":"rooms/Object_Test/Object_Test.yy",},
-    {"name":"obj_zombie","order":1,"path":"objects/obj_zombie/obj_zombie.yy",},
-    {"name":"spr_zombie_explode","order":2,"path":"sprites/spr_zombie_explode/spr_zombie_explode.yy",},
-  ],
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [],
 }

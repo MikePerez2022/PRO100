@@ -99,9 +99,9 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Object_Test","path":"rooms/Object_Test/Object_Test.yy",},},
     {"roomId":{"name":"Test_Menu","path":"rooms/Test_Menu/Test_Menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Object_Test","path":"rooms/Object_Test/Object_Test.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
