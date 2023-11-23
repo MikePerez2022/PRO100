@@ -1,4 +1,5 @@
-/// @DnDAction : YoYo Games.Rooms.Restart_Room
+/// @DnDAction : YoYo Games.Instances.Color_Sprite
 /// @DnDVersion : 1
-/// @DnDHash : 3A7A7B21
-room_restart();
+/// @DnDHash : 3EC1D33E
+image_blend = $FFFFFFFF & $ffffff;
+image_alpha = ($FFFFFFFF >> 24) / $ff;

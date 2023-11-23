@@ -1,7 +1,14 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"Scr_Inventory_Functions","order":1,"path":"scripts/Scr_Inventory_Functions/Scr_Inventory_Functions.yy",},
     {"name":"Obj_level_Exit","order":1,"path":"objects/Obj_level_Exit/Obj_level_Exit.yy",},
     {"name":"Obj_save_Load","order":1,"path":"objects/Obj_save_Load/Obj_save_Load.yy",},
+    {"name":"Obj_Inv","order":2,"path":"objects/Obj_Inv/Obj_Inv.yy",},
+    {"name":"Obj_Powerup_HP","order":3,"path":"objects/Obj_Powerup_HP/Obj_Powerup_HP.yy",},
+    {"name":"Spr_THP","order":2,"path":"sprites/Spr_THP/Spr_THP.yy",},
+    {"name":"Spr_Items_Inv","order":1,"path":"sprites/Spr_Items_Inv/Spr_Items_Inv.yy",},
+    {"name":"Sprite14","order":2,"path":"sprites/Sprite14/Sprite14.yy",},
+    {"name":"Sprite13","order":1,"path":"sprites/Sprite13/Sprite13.yy",},
   ],
 }

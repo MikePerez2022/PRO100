@@ -7,12 +7,20 @@ if(For_Sale)
 {
 	if(keyboard_check_pressed(ord("E")) && global.Player_Coins >= 20)
 	{
-		global.Player_Coins -= 20;
-		For_Sale = false;
+		if(InventoryAdd(Obj_Inv.id, Item_SB))
+		{
+			global.Player_Coins -= 20;			
+			instance_destroy();
+		}
+		
 	}
 }
 
-if(!is_used && !For_Sale)
+
+
+
+
+if(!is_used && !For_Sale && global.Player_Move_Speed < 20)
 {
 	is_used = true;
 	global.Player_Move_Speed *= 2;
@@ -21,8 +29,6 @@ if(!is_used && !For_Sale)
 	show_debug_message(global.Player_Move_Speed);
 	image_index = 1;
 }
-
-
 
 
 

@@ -8,4 +8,3 @@ show_debug_message(global.Player_Move_Speed);
 
 // Inherit the parent event
 event_inherited();
-
