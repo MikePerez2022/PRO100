@@ -4,9 +4,11 @@
 
 room_goto_next();
 
+Obj_Player.x = posX;
+Obj_Player.y = posY;
 
-
-
+Obj_Player.image_xscale = scaleX;
+Obj_Player.image_yscale = scaleY;
 
 
 

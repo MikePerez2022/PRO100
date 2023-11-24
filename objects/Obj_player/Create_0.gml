@@ -10,9 +10,3 @@
 global.Player_Coins = 0;
 global.Player_Move_Speed = 5;
 global.Player_Health = 100;
-
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 54B2962B
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)$(13_10)"
-/// @description Execute Code

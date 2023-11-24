@@ -18,7 +18,3 @@ draw_text(100, 50, string_concat("Coins: " + string(global.Player_Coins)));
 
 
 
-
-
-
-
