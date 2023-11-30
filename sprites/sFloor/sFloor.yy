@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Stellar Dungeon Explorer",
-    "path": "Stellar Dungeon Explorer.yyp",
+    "name": "Level",
+    "path": "folders/Sprites/Level.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

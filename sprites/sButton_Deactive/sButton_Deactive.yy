@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Stellar Dungeon Explorer",
-    "path": "Stellar Dungeon Explorer.yyp",
+    "name": "Interactable",
+    "path": "folders/Sprites/Level/Interactable.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

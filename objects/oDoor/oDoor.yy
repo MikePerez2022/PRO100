@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Stellar Dungeon Explorer",
-    "path": "Stellar Dungeon Explorer.yyp",
+    "name": "Level",
+    "path": "folders/Objects/Level.yy",
   },
   "parentObjectId": null,
   "persistent": false,
