@@ -18,7 +18,6 @@ if (action_key)
 				global.completed = true;
 			}
 			activeObj.sprite_index = sButton_Active
-			
-			
+						
 		}
 }

@@ -10,7 +10,7 @@ Obj_Player.y = posY;
 Obj_Player.image_xscale = scaleX;
 Obj_Player.image_yscale = scaleY;
 
-
+global.Player_Move_Speed = rmSpeed;
 
 
 

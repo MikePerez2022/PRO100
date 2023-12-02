@@ -24,11 +24,15 @@ if(alarm[0] < 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 299840D7
 	/// @DnDParent : 28E21B10
-	/// @DnDArgument : "code" "/// @description Execute Code$(13_10)global.Player_Health -= 25;$(13_10)$(13_10)if(global.Player_Health <= 0) room_restart();$(13_10)$(13_10)show_debug_message(global.Player_Health);"
+	/// @DnDArgument : "code" "/// @description Execute Code$(13_10)global.Player_Health -= 25;$(13_10)$(13_10)if(global.Player_Health <= 0) $(13_10){$(13_10)	room_goto(RM_GameOver);$(13_10)	instance_destroy();$(13_10)}$(13_10)$(13_10)show_debug_message(global.Player_Health);"
 	/// @description Execute Code
 	global.Player_Health -= 25;
 	
-	if(global.Player_Health <= 0) room_restart();
+	if(global.Player_Health <= 0) 
+	{
+		room_goto(RM_GameOver);
+		instance_destroy();
+	}
 	
 	show_debug_message(global.Player_Health);
 }
