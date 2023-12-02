@@ -35,6 +35,42 @@ ini_write_real("Player", "Speed", global.Player_Move_Speed);
 /// @DnDArgument : "value" "global.Player_Health"
 ini_write_real("Player", "Health", global.Player_Health);
 
+/// @DnDAction : YoYo Games.Files.Ini_Write
+/// @DnDVersion : 1
+/// @DnDHash : 2B260102
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""Button""
+/// @DnDArgument : "key" ""Count""
+/// @DnDArgument : "value" "global.BUTTON_COUNT"
+ini_write_real("Button", "Count", global.BUTTON_COUNT);
+
+/// @DnDAction : YoYo Games.Files.Ini_Write
+/// @DnDVersion : 1
+/// @DnDHash : 592DD96A
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""Button""
+/// @DnDArgument : "key" ""Bseq""
+/// @DnDArgument : "value" "global.buttonSequence"
+ini_write_real("Button", "Bseq", global.buttonSequence);
+
+/// @DnDAction : YoYo Games.Files.Ini_Write
+/// @DnDVersion : 1
+/// @DnDHash : 427452F1
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""Button""
+/// @DnDArgument : "key" ""completed""
+/// @DnDArgument : "value" "global.completed"
+ini_write_real("Button", "completed", global.completed);
+
+/// @DnDAction : YoYo Games.Files.Ini_Write
+/// @DnDVersion : 1
+/// @DnDHash : 2F9DA1BD
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""Button""
+/// @DnDArgument : "key" ""started""
+/// @DnDArgument : "value" "global.isStarted"
+ini_write_real("Button", "started", global.isStarted);
+
 /// @DnDAction : YoYo Games.Files.Close_Ini
 /// @DnDVersion : 1
 /// @DnDHash : 6A016070

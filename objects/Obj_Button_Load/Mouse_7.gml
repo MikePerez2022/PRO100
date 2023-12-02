@@ -56,6 +56,50 @@ if(l556C97A4_0)
 	/// @DnDArgument : "default" "999"
 	global.Player_Health = ini_read_real("Player", "Health", 999);
 
+	/// @DnDAction : YoYo Games.Files.Ini_Read
+	/// @DnDVersion : 1
+	/// @DnDHash : 48C604BA
+	/// @DnDParent : 556C97A4
+	/// @DnDArgument : "var" "global.BUTTON_COUNT"
+	/// @DnDArgument : "type" "1"
+	/// @DnDArgument : "section" ""Button""
+	/// @DnDArgument : "key" ""Count""
+	/// @DnDArgument : "default" "999"
+	global.BUTTON_COUNT = ini_read_real("Button", "Count", 999);
+
+	/// @DnDAction : YoYo Games.Files.Ini_Read
+	/// @DnDVersion : 1
+	/// @DnDHash : 1544E3B0
+	/// @DnDParent : 556C97A4
+	/// @DnDArgument : "var" "global.buttonSequence"
+	/// @DnDArgument : "type" "1"
+	/// @DnDArgument : "section" ""Button""
+	/// @DnDArgument : "key" ""Bseq""
+	/// @DnDArgument : "default" "999"
+	global.buttonSequence = ini_read_real("Button", "Bseq", 999);
+
+	/// @DnDAction : YoYo Games.Files.Ini_Read
+	/// @DnDVersion : 1
+	/// @DnDHash : 2B0F54F4
+	/// @DnDParent : 556C97A4
+	/// @DnDArgument : "var" "global.completed"
+	/// @DnDArgument : "type" "1"
+	/// @DnDArgument : "section" ""Button""
+	/// @DnDArgument : "key" ""completed""
+	/// @DnDArgument : "default" "999"
+	global.completed = ini_read_real("Button", "completed", 999);
+
+	/// @DnDAction : YoYo Games.Files.Ini_Read
+	/// @DnDVersion : 1
+	/// @DnDHash : 5ACB1195
+	/// @DnDParent : 556C97A4
+	/// @DnDArgument : "var" "global.isStarted"
+	/// @DnDArgument : "type" "1"
+	/// @DnDArgument : "section" ""Button""
+	/// @DnDArgument : "key" ""started""
+	/// @DnDArgument : "default" "999"
+	global.isStarted = ini_read_real("Button", "started", 999);
+
 	/// @DnDAction : YoYo Games.Files.Close_Ini
 	/// @DnDVersion : 1
 	/// @DnDHash : 6E51B584
