@@ -1,12 +1,15 @@
 {
   "FolderOrderSettings": [
     {"name":"Interactable","order":1,"path":"folders/Sprites/Level/Interactable.yy",},
+    {"name":"Mini-Games","order":1,"path":"folders/Objects/Mini-Games.yy",},
+    {"name":"Minigames","order":1,"path":"folders/Sprites/Minigames.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sDoor","order":2,"path":"sprites/sDoor/sDoor.yy",},
     {"name":"Scr_Inventory_Functions","order":1,"path":"scripts/Scr_Inventory_Functions/Scr_Inventory_Functions.yy",},
     {"name":"Obj_level_Exit","order":1,"path":"objects/Obj_level_Exit/Obj_level_Exit.yy",},
     {"name":"spr_chest","order":1,"path":"sprites/spr_chest/spr_chest.yy",},
+    {"name":"InitializeBar","order":2,"path":"scripts/InitializeBar/InitializeBar.yy",},
     {"name":"Obj_save_Load","order":1,"path":"objects/Obj_save_Load/Obj_save_Load.yy",},
     {"name":"RM_GameOver","order":1,"path":"rooms/RM_GameOver/RM_GameOver.yy",},
     {"name":"sButton_Deactive","order":5,"path":"sprites/sButton_Deactive/sButton_Deactive.yy",},
