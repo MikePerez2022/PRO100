@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Spr_THP",
-  "bbox_bottom": 63,
+  "bbox_bottom": 34,
   "bbox_left": 0,
-  "bbox_right": 63,
+  "bbox_right": 34,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,8 +13,8 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"20bb9abb-6904-4688-bf74-eb874e41e7bb",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e4d92825-d679-4dae-ac8b-e6de1a618d49",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"591cc6f3-4e72-4a73-9fad-6b0535422150",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"20bb9abb-6904-4688-bf74-eb874e41e7bb","path":"sprites/Spr_THP/Spr_THP.yy",},},},"Disabled":false,"id":"53f77406-0224-4227-823e-bc3155742676","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e4d92825-d679-4dae-ac8b-e6de1a618d49","path":"sprites/Spr_THP/Spr_THP.yy",},},},"Disabled":false,"id":"2f9c19b2-d2bc-4e30-a147-301cd6239da7","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e4d92825-d679-4dae-ac8b-e6de1a618d49","path":"sprites/Spr_THP/Spr_THP.yy",},},},"Disabled":false,"id":"2f9c19b2-d2bc-4e30-a147-301cd6239da7","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"591cc6f3-4e72-4a73-9fad-6b0535422150","path":"sprites/Spr_THP/Spr_THP.yy",},},},"Disabled":false,"id":"6fd95fa2-10db-4339-a4ba-f826c6f1ccdd","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
