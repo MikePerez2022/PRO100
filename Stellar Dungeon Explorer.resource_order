@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings": [
-    {"name":"Interactable","order":1,"path":"folders/Sprites/Level/Interactable.yy",},
     {"name":"Mini-Games","order":1,"path":"folders/Objects/Mini-Games.yy",},
+    {"name":"Interactable","order":1,"path":"folders/Sprites/Level/Interactable.yy",},
     {"name":"Minigames","order":1,"path":"folders/Sprites/Minigames.yy",},
   ],
   "ResourceOrderSettings": [

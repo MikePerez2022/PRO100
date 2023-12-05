@@ -1,1 +1,1 @@
-global.pc = 1;
+//view_set_camera();

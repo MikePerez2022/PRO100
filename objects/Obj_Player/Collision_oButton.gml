@@ -1,7 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 action_key = keyboard_check_pressed(ord("E"))
-if (action_key)
+
+
+if (action_key && instance_exists(oButton))
 {
 	
 	var activeObj = instance_nearest(x, y, oButton)

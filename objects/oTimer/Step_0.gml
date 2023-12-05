@@ -9,6 +9,6 @@ if (global.isStarted && global.BUTTON_COUNT >= 10) {
 }  
 if (global.completed) {
 	instance_destroy(oDoor)
-	oButton.sprite_index = sButton_Active
+	//oButton.sprite_index = sButton_Active
 	
 }
