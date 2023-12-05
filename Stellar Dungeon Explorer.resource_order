@@ -1,5 +1,7 @@
 {
   "FolderOrderSettings": [
+    {"name":"Assets","order":1,"path":"folders/Assets.yy",},
+    {"name":"SpriteAnims","order":10,"path":"folders/Assets/SpriteAnims.yy",},
     {"name":"Mini-Games","order":1,"path":"folders/Objects/Mini-Games.yy",},
     {"name":"HUD","order":1,"path":"folders/Sprites/HUD.yy",},
     {"name":"Items","order":2,"path":"folders/Sprites/Items.yy",},
@@ -10,8 +12,6 @@
     {"name":"Player","order":5,"path":"folders/Sprites/Player.yy",},
     {"name":"Tilesets assets","order":6,"path":"folders/Sprites/Tilesets assets.yy",},
     {"name":"Visual assets","order":7,"path":"folders/Sprites/Visual assets.yy",},
-    {"name":"Assets","order":1,"path":"folders/Assets.yy",},
-    {"name":"SpriteAnims","order":10,"path":"folders/Assets/SpriteAnims.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sDoor","order":2,"path":"sprites/sDoor/sDoor.yy",},

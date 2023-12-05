@@ -12,6 +12,8 @@
   "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Assets","folderPath":"folders/Assets.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"SpriteAnims","folderPath":"folders/Assets/SpriteAnims.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
@@ -56,8 +58,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Visual assets","folderPath":"folders/Sprites/Visual assets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Assets","folderPath":"folders/Assets.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"SpriteAnims","folderPath":"folders/Assets/SpriteAnims.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"MutilatedStumbler.aseprite","CopyToMask":-1,"filePath":"datafiles",},
