@@ -7,7 +7,9 @@
 x_vel = x_dir * walk_vel;
 y_vel = y_dir * walk_vel;
 
-if(is_path_x)
+if(!global.Pause)
+{
+	if(is_path_x)
 {
 	//horizontal collison
 	if (place_meeting(x + x_vel, y, obj_wall_collision))
@@ -64,6 +66,12 @@ if(is_path_x && is_path_y)
 		y_dir *= -1;
 	}
 	y = y + y_vel;
+}
+}
+else 
+{
+	x_vel = 0;
+	y_vel = 0;
 }
 
 if(hit_points <= 0)

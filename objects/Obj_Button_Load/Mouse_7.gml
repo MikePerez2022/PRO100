@@ -100,6 +100,17 @@ if(l556C97A4_0)
 	/// @DnDArgument : "default" "999"
 	global.isStarted = ini_read_real("Button", "started", 999);
 
+	/// @DnDAction : YoYo Games.Files.Ini_Read
+	/// @DnDVersion : 1
+	/// @DnDHash : 4DBCAC0C
+	/// @DnDParent : 556C97A4
+	/// @DnDArgument : "var" "global.Pause"
+	/// @DnDArgument : "type" "1"
+	/// @DnDArgument : "section" ""Pause""
+	/// @DnDArgument : "key" ""Paused""
+	/// @DnDArgument : "default" "999"
+	global.Pause = ini_read_real("Pause", "Paused", 999);
+
 	/// @DnDAction : YoYo Games.Files.Close_Ini
 	/// @DnDVersion : 1
 	/// @DnDHash : 6E51B584

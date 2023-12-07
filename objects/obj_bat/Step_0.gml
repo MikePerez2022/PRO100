@@ -21,3 +21,5 @@ if (_target_instance != noone)
 		y += walk_vel * sin(_direction);
 	}
 }
+
+if(global.Pause) walk_vel = 0;

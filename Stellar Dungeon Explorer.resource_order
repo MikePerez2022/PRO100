@@ -16,6 +16,7 @@
     {"name":"Visual assets","order":7,"path":"folders/Sprites/Visual assets.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Sprite31","order":1,"path":"sprites/Sprite31/Sprite31.yy",},
     {"name":"sDoor","order":2,"path":"sprites/sDoor/sDoor.yy",},
     {"name":"spr_indicator","order":1,"path":"sprites/spr_indicator/spr_indicator.yy",},
     {"name":"sBanner","order":5,"path":"sprites/sBanner/sBanner.yy",},
@@ -28,6 +29,7 @@
     {"name":"snd_unlock","order":2,"path":"sounds/snd_unlock/snd_unlock.yy",},
     {"name":"RM_GameOver","order":1,"path":"rooms/RM_GameOver/RM_GameOver.yy",},
     {"name":"sArrow","order":1,"path":"sprites/sArrow/sArrow.yy",},
+    {"name":"Obj_Pause","order":1,"path":"objects/Obj_Pause/Obj_Pause.yy",},
     {"name":"sSideTorch","order":4,"path":"sprites/sSideTorch/sSideTorch.yy",},
     {"name":"sButton_Deactive","order":5,"path":"sprites/sButton_Deactive/sButton_Deactive.yy",},
     {"name":"Obj_Title_GO","order":3,"path":"objects/Obj_Title_GO/Obj_Title_GO.yy",},

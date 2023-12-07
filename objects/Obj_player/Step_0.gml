@@ -26,3 +26,9 @@ if (keyboard_check_pressed(vk_space) && distance_to_object(Chest) < interaction_
 //	image_speed = 1;
 //	global.Player_Move_Speed = 5;	
 //}
+
+if(room_get_name(room) == "SafeCracker") Obj_Player.InMini = true;
+else Obj_Player.InMini = false;
+
+if(InMini) Obj_Player.visible = false;
+else Obj_Player.visible = true;

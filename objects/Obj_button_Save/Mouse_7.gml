@@ -71,6 +71,15 @@ ini_write_real("Button", "completed", global.completed);
 /// @DnDArgument : "value" "global.isStarted"
 ini_write_real("Button", "started", global.isStarted);
 
+/// @DnDAction : YoYo Games.Files.Ini_Write
+/// @DnDVersion : 1
+/// @DnDHash : 5D7FB113
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""Pause""
+/// @DnDArgument : "key" ""Paused""
+/// @DnDArgument : "value" "global.Pause"
+ini_write_real("Pause", "Paused", global.Pause);
+
 /// @DnDAction : YoYo Games.Files.Close_Ini
 /// @DnDVersion : 1
 /// @DnDHash : 6A016070

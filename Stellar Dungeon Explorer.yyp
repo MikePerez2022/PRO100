@@ -72,6 +72,7 @@
   },
   "resources": [
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
+    {"id":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},},
     {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
     {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},
     {"id":{"name":"Chest","path":"objects/Chest/Chest.yy",},},
@@ -99,6 +100,7 @@
     {"id":{"name":"RM_GameOver","path":"rooms/RM_GameOver/RM_GameOver.yy",},},
     {"id":{"name":"sArrow","path":"sprites/sArrow/sArrow.yy",},},
     {"id":{"name":"Spr_Test","path":"sprites/Spr_Test/Spr_Test.yy",},},
+    {"id":{"name":"Obj_Pause","path":"objects/Obj_Pause/Obj_Pause.yy",},},
     {"id":{"name":"Obj_Powerup_SB","path":"objects/Obj_Powerup_SB/Obj_Powerup_SB.yy",},},
     {"id":{"name":"sSideTorch","path":"sprites/sSideTorch/sSideTorch.yy",},},
     {"id":{"name":"Fnt_HUD","path":"fonts/Fnt_HUD/Fnt_HUD.yy",},},
@@ -152,13 +154,16 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Test_Menu","path":"rooms/Test_Menu/Test_Menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room11","path":"rooms/Room11/Room11.yy",},},
     {"roomId":{"name":"Object_Test","path":"rooms/Object_Test/Object_Test.yy",},},
-    {"roomId":{"name":"RM_GameOver","path":"rooms/RM_GameOver/RM_GameOver.yy",},},
+    {"roomId":{"name":"Room10","path":"rooms/Room10/Room10.yy",},},
+    {"roomId":{"name":"Room01","path":"rooms/Room01/Room01.yy",},},
     {"roomId":{"name":"SafeCracker","path":"rooms/SafeCracker/SafeCracker.yy",},},
     {"roomId":{"name":"Room01","path":"rooms/Room01/Room01.yy",},},
     {"roomId":{"name":"Room10","path":"rooms/Room10/Room10.yy",},},
     {"roomId":{"name":"Room11","path":"rooms/Room11/Room11.yy",},},
     {"roomId":{"name":"Room00","path":"rooms/Room00/Room00.yy",},},
+    {"roomId":{"name":"RM_GameOver","path":"rooms/RM_GameOver/RM_GameOver.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

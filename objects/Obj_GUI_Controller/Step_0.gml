@@ -22,22 +22,23 @@ if(keyboard_check_pressed(ord("Q")))
 	}
 }
 
-if(keyboard_check_pressed(ord("W")))
-{
-	if(!Obj_Player.visible)
-	{
-		Obj_Player.visible = true;
-	}
-	else
-	{
-		Obj_Player.visible = false;
-	}
-}
+//if(keyboard_check_pressed(ord("W")))
+//{
+//	if(!Obj_Player.visible)
+//	{
+//		Obj_Player.visible = true;
+//	}
+//	else
+//	{
+//		Obj_Player.visible = false;
+//	}
+//}
 
 if(keyboard_check_pressed(vk_tab))
 {
 	if(!Menu)
 	{
+		
 		instance_activate_layer("Instances_Help");
 		Menu = true;
 	}
