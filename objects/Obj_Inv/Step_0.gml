@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if(room == Test_Menu) visible = false;
-else visible = true;
+//else visible = true;
 
 
 

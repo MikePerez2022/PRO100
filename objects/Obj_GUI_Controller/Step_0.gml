@@ -10,6 +10,44 @@ if (keyboard_check_pressed(vk_f4)) {
     }
 }
 
+if(keyboard_check_pressed(ord("Q")))
+{
+	if(!Obj_Inv.visible)
+	{
+		Obj_Inv.visible = true;
+	}
+	else
+	{
+		Obj_Inv.visible = false;
+	}
+}
+
+if(keyboard_check_pressed(ord("W")))
+{
+	if(!Obj_Player.visible)
+	{
+		Obj_Player.visible = true;
+	}
+	else
+	{
+		Obj_Player.visible = false;
+	}
+}
+
+if(keyboard_check_pressed(vk_tab))
+{
+	if(!Menu)
+	{
+		instance_activate_layer("Instances_Help");
+		Menu = true;
+	}
+	else
+	{
+		instance_deactivate_layer("Instances_Help");
+		Menu = false;
+	}
+}
+
 if(camera_get_active() == -1) return;
 
 view_set_visible(0, true);

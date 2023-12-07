@@ -3,7 +3,7 @@
 
 if(InventoryRemove(id, Item_HP))
 {
-	instance_create_depth(Obj_Player.x, Obj_Player.y, 0, Obj_Powerup_HP);
+	instance_create_depth(Obj_Player.id.x - 0, Obj_Player.id.y, 0, Obj_Powerup_HP);
 }
 
 
