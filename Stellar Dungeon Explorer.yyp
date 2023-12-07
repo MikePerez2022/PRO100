@@ -127,6 +127,7 @@
     {"id":{"name":"Spr_Items_Inv","path":"sprites/Spr_Items_Inv/Spr_Items_Inv.yy",},},
     {"id":{"name":"Object_Test","path":"rooms/Object_Test/Object_Test.yy",},},
     {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},},
+    {"id":{"name":"Room00","path":"rooms/Room00/Room00.yy",},},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
     {"id":{"name":"Obj_Title","path":"objects/Obj_Title/Obj_Title.yy",},},
     {"id":{"name":"sTileSet","path":"sprites/sTileSet/sTileSet.yy",},},
@@ -154,6 +155,10 @@
     {"roomId":{"name":"Object_Test","path":"rooms/Object_Test/Object_Test.yy",},},
     {"roomId":{"name":"RM_GameOver","path":"rooms/RM_GameOver/RM_GameOver.yy",},},
     {"roomId":{"name":"SafeCracker","path":"rooms/SafeCracker/SafeCracker.yy",},},
+    {"roomId":{"name":"Room01","path":"rooms/Room01/Room01.yy",},},
+    {"roomId":{"name":"Room10","path":"rooms/Room10/Room10.yy",},},
+    {"roomId":{"name":"Room11","path":"rooms/Room11/Room11.yy",},},
+    {"roomId":{"name":"Room00","path":"rooms/Room00/Room00.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

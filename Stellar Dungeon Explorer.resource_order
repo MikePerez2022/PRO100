@@ -40,6 +40,7 @@
     {"name":"sButton_Active","order":4,"path":"sprites/sButton_Active/sButton_Active.yy",},
     {"name":"Spr_Items_Inv","order":2,"path":"sprites/Spr_Items_Inv/Spr_Items_Inv.yy",},
     {"name":"Sprite14","order":2,"path":"sprites/Sprite14/Sprite14.yy",},
+    {"name":"Room00","order":3,"path":"rooms/Room00/Room00.yy",},
     {"name":"sFloor","order":3,"path":"sprites/sFloor/sFloor.yy",},
     {"name":"Obj_Title","order":2,"path":"objects/Obj_Title/Obj_Title.yy",},
     {"name":"sTileSet","order":4,"path":"sprites/sTileSet/sTileSet.yy",},
