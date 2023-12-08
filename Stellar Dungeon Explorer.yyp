@@ -63,6 +63,7 @@
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"MutilatedStumbler.aseprite","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Sci-Fi Warrior.rar","CopyToMask":-1,"filePath":"datafiles",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"snd_match","CopyToMask":-1,"filePath":"datafiles",},
   ],
   "isEcma": false,
@@ -80,6 +81,7 @@
     {"id":{"name":"spr_indicator","path":"sprites/spr_indicator/spr_indicator.yy",},},
     {"id":{"name":"sBanner","path":"sprites/sBanner/sBanner.yy",},},
     {"id":{"name":"Scr_Inventory_Functions","path":"scripts/Scr_Inventory_Functions/Scr_Inventory_Functions.yy",},},
+    {"id":{"name":"Cacodaemon_Sprite_Sheet","path":"sprites/Cacodaemon_Sprite_Sheet/Cacodaemon_Sprite_Sheet.yy",},},
     {"id":{"name":"Room21","path":"rooms/Room21/Room21.yy",},},
     {"id":{"name":"Obj_level_Exit","path":"objects/Obj_level_Exit/Obj_level_Exit.yy",},},
     {"id":{"name":"spr_chest","path":"sprites/spr_chest/spr_chest.yy",},},
@@ -113,6 +115,7 @@
     {"id":{"name":"Obj_GUI_Controller","path":"objects/Obj_GUI_Controller/Obj_GUI_Controller.yy",},},
     {"id":{"name":"oDoor","path":"objects/oDoor/oDoor.yy",},},
     {"id":{"name":"Obj_Inv","path":"objects/Obj_Inv/Obj_Inv.yy",},},
+    {"id":{"name":"MainEnemy","path":"sprites/MainEnemy/MainEnemy.yy",},},
     {"id":{"name":"obj_bat","path":"objects/obj_bat/obj_bat.yy",},},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
     {"id":{"name":"Spr_Help","path":"sprites/Spr_Help/Spr_Help.yy",},},

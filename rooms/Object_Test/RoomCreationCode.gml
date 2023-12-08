@@ -1,1 +1,1 @@
-//view_set_camera();
+global.CurrentRoom = room;

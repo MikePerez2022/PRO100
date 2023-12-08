@@ -61,7 +61,7 @@ for (var i = 0; i < 3; i++)
 // Draws final text
 if (unlocked)
 {
-	room_goto_previous();
+	room_goto(global.CurrentRoom);
 	draw_set_halign(fa_center);
 	draw_text(room_width/2, room_height - 50, "SUCCESS! VAULT DOOR OPENED!");
 }
