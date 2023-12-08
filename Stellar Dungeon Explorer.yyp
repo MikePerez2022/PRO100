@@ -80,6 +80,7 @@
     {"id":{"name":"spr_indicator","path":"sprites/spr_indicator/spr_indicator.yy",},},
     {"id":{"name":"sBanner","path":"sprites/sBanner/sBanner.yy",},},
     {"id":{"name":"Scr_Inventory_Functions","path":"scripts/Scr_Inventory_Functions/Scr_Inventory_Functions.yy",},},
+    {"id":{"name":"Room21","path":"rooms/Room21/Room21.yy",},},
     {"id":{"name":"Obj_level_Exit","path":"objects/Obj_level_Exit/Obj_level_Exit.yy",},},
     {"id":{"name":"spr_chest","path":"sprites/spr_chest/spr_chest.yy",},},
     {"id":{"name":"Room01","path":"rooms/Room01/Room01.yy",},},
@@ -149,6 +150,7 @@
     {"id":{"name":"Obj_Button_Start","path":"objects/Obj_Button_Start/Obj_Button_Start.yy",},},
     {"id":{"name":"Obj_Button_Exit","path":"objects/Obj_Button_Exit/Obj_Button_Exit.yy",},},
     {"id":{"name":"spr_zombie_explode","path":"sprites/spr_zombie_explode/spr_zombie_explode.yy",},},
+    {"id":{"name":"Room20","path":"rooms/Room20/Room20.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
@@ -164,6 +166,8 @@
     {"roomId":{"name":"Room11","path":"rooms/Room11/Room11.yy",},},
     {"roomId":{"name":"Room00","path":"rooms/Room00/Room00.yy",},},
     {"roomId":{"name":"RM_GameOver","path":"rooms/RM_GameOver/RM_GameOver.yy",},},
+    {"roomId":{"name":"Room20","path":"rooms/Room20/Room20.yy",},},
+    {"roomId":{"name":"Room21","path":"rooms/Room21/Room21.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
