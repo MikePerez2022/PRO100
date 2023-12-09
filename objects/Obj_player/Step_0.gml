@@ -4,6 +4,9 @@
 key_run = keyboard_check(vk_lshift)
 // Cite ChatGPT for instance check, activeObj and global variables for timer
 
+scaleX = image_xscale;
+scaleY = image_yscale;
+
 
 if (global.isStarted && global.BUTTON_COUNT < 10 && !global.completed){
 	global.BUTTON_COUNT += (room_speed / 3600);

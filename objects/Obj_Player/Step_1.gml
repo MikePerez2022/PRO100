@@ -1,8 +1,8 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
-/// @DnDHash : 4E01AD83
+/// @DnDHash : 1E71B982
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "spr_zombie"
-/// @DnDSaveInfo : "spriteind" "spr_zombie"
-sprite_index = spr_zombie;
+/// @DnDArgument : "spriteind" "Spr_Player_Idle"
+/// @DnDSaveInfo : "spriteind" "Spr_Player_Idle"
+sprite_index = Spr_Player_Idle;
 image_index += 0;
